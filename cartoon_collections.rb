@@ -11,7 +11,7 @@ def summon_captain_planet(planeteer_calls)
 end
 
 def long_planeteer_calls(long_calls)
-  long.calls.include? |long_calls| do
+  long.calls.include?() |long_calls| do
     
     end
 end
